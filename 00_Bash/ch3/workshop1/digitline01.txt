@@ -1,0 +1,15 @@
+7 failed password for root from 192.168.1.10
+admin login successful 9
+5 SSH service restarted 2
+error detected in nginx
+9-malware-alert-1
+8080 tcp open 443
+abc123
+1 user added successfully
+3 suspicious process found 7
+0x90 memory allocation failed
+7 root access granted
+5 warning issued to user admin 4
+May 20 08:22:10 sshd[1011]:
+6 failed login attempt from 10.0.0.5 8
+9----9

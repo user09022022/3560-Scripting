@@ -1,0 +1,10 @@
+-rw-r--r-- 1 root root   2048 May 23 12:10 auth.log
+-rwxr-xr-x 1 giovan staff 4096 May 23 12:11 scan.sh
+-rw------- 1 root root   1024 May 23 12:12 shadow.backup
+-rw-r--r-- 1 giovan staff 5120 May 23 12:13 nginx.log
+-rwx------ 1 root root   8192 May 23 12:14 exploit.sh
+-rw-r--r-- 1 guest guest 1024 May 23 12:15 notes.txt
+-rwxr-xr-x 1 giovan staff 3072 May 23 12:16 monitor.sh
+-rw-r--r-- 1 root root   4096 May 23 12:17 mysql.log
+-rwx------ 1 admin admin 2048 May 23 12:18 backup.sh
+-rw-r--r-- 1 giovan staff 1024 May 23 12:19 report.txt

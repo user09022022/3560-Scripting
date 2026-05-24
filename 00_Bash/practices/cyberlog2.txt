@@ -1,0 +1,14 @@
+May 23 09:00:01 kali sshd[2001]: Failed password for root from 192.168.1.10 port 5521 ssh2
+May 23 09:00:11 kali sshd[2005]: Accepted password for admin from 192.168.1.20 port 6632 ssh2
+May 23 09:00:22 kali sshd[2010]: Failed password for guest from 10.0.0.5 port 7711 ssh2
+May 23 09:00:45 kali sudo: giovan : COMMAND=/usr/bin/systemctl restart apache2
+May 23 09:01:01 kali sshd[2020]: Failed password for test from 192.168.1.88 port 4431 ssh2
+May 23 09:01:14 kali kernel: CPU temperature normal
+May 23 09:01:30 kali sshd[2025]: Accepted password for backup from 172.16.0.9 port 9011 ssh2
+May 23 09:01:51 kali nginx[3001]: service started
+May 23 09:02:02 kali sshd[2030]: Failed password for admin from 192.168.1.44 port 1188 ssh2
+May 23 09:02:21 kali mysql[3306]: backup completed
+May 23 09:02:48 kali sshd[2035]: Failed password for root from 192.168.1.55 port 2222 ssh2
+May 23 09:03:10 kali ftp[4401]: anonymous login accepted
+May 23 09:03:31 kali sshd[2040]: Accepted password for giovan from 192.168.1.77 port 5522 ssh2
+May 23 09:03:55 kali sshd[2045]: Failed password for backup from 10.10.10.10 port 8899 ssh2

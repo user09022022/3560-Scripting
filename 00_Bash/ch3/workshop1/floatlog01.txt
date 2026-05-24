@@ -1,0 +1,15 @@
+3.14
+.5
+5.
+.
+0.0
+192.168.1.10
+version 2.4.1
+error.
+failed login
+10
+abc.def
+-3.14
+0x90
+7.89
+admin.

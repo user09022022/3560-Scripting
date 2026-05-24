@@ -1,0 +1,20 @@
+May 23 13:00:01 kali sshd[6001]: Failed password for root from 192.168.1.10 port 5521 ssh2
+May 23 13:00:15 kali sshd[6005]: Accepted password for admin from 192.168.1.20 port 6632 ssh2
+May 23 13:00:28 kali sudo: giovan : COMMAND=/usr/bin/apt update
+May 23 13:00:41 kali sshd[6010]: Failed password for guest from 10.0.0.5 port 7711 ssh2
+May 23 13:00:59 kali kernel: suspicious USB device detected
+May 23 13:01:12 kali sshd[6015]: Failed password for admin from 192.168.1.44 port 1188 ssh2
+May 23 13:01:30 kali nginx[4401]: service restarted
+May 23 13:01:48 kali sshd[6020]: Accepted password for giovan from 172.16.0.9 port 5522 ssh2
+May 23 13:02:01 kali ftp[2201]: anonymous login accepted
+May 23 13:02:15 kali sshd[6025]: Failed password for backup from 192.168.1.55 port 2222 ssh2
+May 23 13:02:39 kali mysql[3306]: backup completed
+May 23 13:02:51 kali sshd[6030]: Failed password for test from 192.168.1.88 port 4431 ssh2
+May 23 13:03:05 kali sudo: root : COMMAND=/usr/bin/systemctl restart nginx
+May 23 13:03:18 kali sshd[6035]: Accepted password for root from 192.168.1.77 port 6001 ssh2
+May 23 13:03:31 kali apache[8080]: service started
+May 23 13:03:48 kali sshd[6040]: Failed password for root from 10.10.10.10 port 8899 ssh2
+May 23 13:04:02 kali cron[777]: scheduled task completed
+May 23 13:04:19 kali sshd[6045]: Failed password for admin from 192.168.1.90 port 3333 ssh2
+May 23 13:04:40 kali systemd[1]: Started Security Service
+May 23 13:04:55 kali sshd[6050]: Accepted password for backup from 192.168.1.22 port 4444 ssh2
